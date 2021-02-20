@@ -9,7 +9,7 @@ To run enter the "api" directory and run the following commands:
 1. `yarn install`
 2. `yarn start`
 
-To view the functionality, go to this link in your browser: [http://localhost:8080]. You should see this text on the web page: `Cannot GET /`
+To view the functionality, go to this link in your browser: [http://localhost:8080](http://localhost:8080). You should see this text on the web page: `Cannot GET /`
 
 
 ### `web`
@@ -19,7 +19,7 @@ To run enter the "web" directory and run the following commands:
 1. `yarn install`
 2. `yarn start`
 
-To view the functionality, go to this link in your browser: [http://localhost:3000].
+To view the functionality, go to this link in your browser: [http://localhost:3000](http://localhost:3000).
 
 ### `tests`
 
